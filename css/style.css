@@ -90,7 +90,7 @@ nav ul li{
   -moz-transition: 0.3s;
   -ms-transition: 0.3s;
   -o-transition: 0.3s;
-  font-weight:100;
+  font-weight:400;
 }
 nav ul li a{
   color: var(--second-color);
